@@ -6,7 +6,7 @@ Trabalho feito por <a  href="https://github.com/lcamaraol/">Bernardo da Silva Ar
 
 ---
 
-## 📖 Exercício 01: Simulador de Caixa Eletrônico
+### 📖 Exercício 01: Simulador de Caixa Eletrônico
 
 <details>
 <summary>🔽 Clique para expandir a questão</summary>
@@ -31,7 +31,28 @@ atingido.
 
 </details>
 
----
+### 📖 Exercício 02: Criando a classe ContaBancaria
+
+
+<details>
+<summary>🔽 Clique para expandir a questão</summary>
+
+### 2 - Classes e Objetos
+
+**Exercício:** Criando a classe ContaBancaria.
+
+**Detalhes:**  
+Migrar a lógica do exercício anterior para uma estrutura de **Programação Orientada a Objetos**.  
+Criar a classe com os atributos `numero`, `titular` e `saldo`, e os métodos `depositar()` e `sacar()`.  
+A classe deve ser instanciada no `main`.
+
+**Regras de Negócio:**
+
+- Todas as regras do exercício anterior devem ser seguidas.  
+- Toda conta nova deve receber um **bônus de boas-vindas de R$ 50,00**, garantido no momento da criação do objeto (construtor).
+
+</details>
+
 
 ## 🛠️ Tecnologias Utilizadas
 
