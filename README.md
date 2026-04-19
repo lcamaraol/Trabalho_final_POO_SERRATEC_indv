@@ -11,7 +11,7 @@ Trabalho feito por <a  href="https://github.com/lcamaraol/">Bernardo da Silva Ar
 <details>
 <summary>🔽 Clique para expandir a questão</summary>
 
-### 1 - Lógica e Estruturas de Controle
+#### 1 - Lógica e Estruturas de Controle
 
 **Exercício:** Simulador de Caixa Eletrônico (Apenas lógica no `main`).
 
@@ -37,7 +37,7 @@ atingido.
 <details>
 <summary>🔽 Clique para expandir a questão</summary>
 
-### 2 - Classes e Objetos
+#### 2 - Classes e Objetos
 
 **Exercício:** Criando a classe ContaBancaria.
 
@@ -53,6 +53,23 @@ A classe deve ser instanciada no `main`.
 
 </details>
 
+### 📖 Exercício 03: - E-commerce
+
+<details>
+<summary>🔽 Clique para expandir a questão</summary>
+
+#### 3 - Relacionamentos e Encapsulamento
+
+**Exercício:** E-commerce (Cliente -> Pedido -> ItemPedido).
+
+**Detalhes:**  
+Modelar um Pedido que pertence a um Cliente e contém uma Lista de ItemPedido.
+
+**Regra de Negócio:**
+
+- Calcular o Frete: Criar um método fecharPedido(). Se o valor total dos itens for superior a R$250,00, o frete é grátis. Caso contrário, cobrar uma taxa fixa de R$25,00. Imprimir o recibo detalhado.
+
+</details>
 
 ## 🛠️ Tecnologias Utilizadas
 
